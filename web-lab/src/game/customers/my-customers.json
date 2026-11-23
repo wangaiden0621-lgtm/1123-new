@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "計程車司機",
+    "intro": "跑完夜班來填肚子",
+    "budget": 110,
+    "wants": ["招牌鍋貼", "酸辣湯"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 8,
+    "lines": {
+      "bought": "吃飽了，再跑兩趟。",
+      "hated_on_menu": "這家怎麼賣紅茶，換一家。",
+      "not_on_menu": "沒招牌鍋貼？白跑一趟。",
+      "sold_out": "賣完了？我來太晚了。",
+      "too_expensive": "這價錢，今天跑不划算。"
+    }
+  },
+  {
+    "name": "夜班護理師",
+    "intro": "下大夜班想喝碗熱的",
+    "budget": 60,
+    "wants": ["酸辣湯", "豆漿"],
+    "hates": null,
+    "days": [2, 4],
+    "count": 6,
+    "lines": {
+      "bought": "熱湯下肚，活過來了。",
+      "hated_on_menu": "今天這菜單不太行。",
+      "not_on_menu": "沒有湯喔？好可惜。",
+      "sold_out": "湯沒了，只好回家睡。",
+      "too_expensive": "有點貴，下次再說。"
+    }
+  },
+  {
+    "name": "收攤小販",
+    "intro": "自己收攤後來吃一頓",
+    "budget": 90,
+    "wants": ["韭菜鍋貼", "酸辣湯"],
+    "hates": "紅茶",
+    "days": [3, 5],
+    "count": 5,
+    "lines": {
+      "bought": "好吃，明天還來。",
+      "hated_on_menu": "有紅茶？我最怕那味道。",
+      "not_on_menu": "沒韭菜的？那算了。",
+      "sold_out": "賣光了，生意真好。",
+      "too_expensive": "太貴了，收攤錢不夠花。"
+    }
+  }
+]
