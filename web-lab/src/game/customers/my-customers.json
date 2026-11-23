@@ -21,7 +21,7 @@
     "budget": 60,
     "wants": ["酸辣湯", "豆漿"],
     "hates": null,
-    "days": [2, 4],
+    "days": [1, 2, 4],
     "count": 6,
     "lines": {
       "bought": "熱湯下肚，活過來了。",
@@ -37,7 +37,7 @@
     "budget": 90,
     "wants": ["韭菜鍋貼", "酸辣湯"],
     "hates": "紅茶",
-    "days": [3, 5],
+    "days": [1, 3, 5],
     "count": 5,
     "lines": {
       "bought": "好吃，明天還來。",
