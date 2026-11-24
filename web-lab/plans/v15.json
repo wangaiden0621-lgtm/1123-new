@@ -1,0 +1,131 @@
+{
+  "name": "v15（路線B）：以 v13 為底，第 2 天紅茶（10 份 25 元）換成酸辣湯 11 份 35 元",
+  "pack": "official",
+  "days": [
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 6,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 0,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 16,
+          "price": 60
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 5,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 4,
+          "price": 80
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 11,
+          "price": 35
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 36,
+          "price": 60
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 7,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 0,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 12,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 32,
+          "price": 60
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 18,
+          "price": 25
+        }
+      ],
+      "promoCost": 200
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 30,
+          "price": 60
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 90
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 21,
+          "price": 90
+        },
+        {
+          "name": "紅茶",
+          "qty": 17,
+          "price": 35
+        }
+      ],
+      "promoCost": 0
+    }
+  ]
+}
