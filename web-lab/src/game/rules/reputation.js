@@ -11,5 +11,17 @@ import { MIN_STARS, MAX_STARS } from '../config.js';
 //   unsatisfied  不滿的客人數
 // 回傳：打烊後的新星等
 export function updateStars({ stars, satisfied, neutral, unsatisfied }) {
-  return stars;
+  const total = satisfied + neutral + unsatisfied;
+  if (total === 0) return stars;
+
+  const satRate = satisfied / total;
+  const unsatRate = unsatisfied / total;
+
+  let delta = 0;
+  if (satRate >= 0.75) delta = 1;
+  else if (satRate >= 0.6) delta = 0.5;
+  else if (satRate < 0.15 || unsatRate >= 0.4) delta = -1;
+  else if (satRate < 0.3 || unsatRate >= 0.25) delta = -0.5;
+
+  return Math.min(MAX_STARS, Math.max(MIN_STARS, stars + delta));
 }
