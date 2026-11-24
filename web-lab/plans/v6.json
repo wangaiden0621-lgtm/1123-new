@@ -1,0 +1,131 @@
+{
+  "name": "v6：以 v5 為底，第 3 天招牌定價 70→60、份數 22→29（測假設 3：降價讓嫌太貴的客人買得起，衝第 3 天 30 份任務）",
+  "pack": "official",
+  "days": [
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 6,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 0,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 5,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 4,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 29,
+          "price": 60
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 5,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 0,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 13,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 12,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 17,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 19,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 14,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    }
+  ]
+}
